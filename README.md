@@ -18,3 +18,7 @@ This is the start of an [Exaclidraw](https://excalidraw.com/) clone that I am bu
 -   🔑 Authentication
 -   🏃 Performance debugging, testing, and improvement
 -   And more...
+
+
+https://user-images.githubusercontent.com/66472172/128635376-4f3f5d88-1c89-4b56-98d8-8075fbe8b627.mp4
+
